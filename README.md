@@ -12,8 +12,8 @@ Interests
 Projects
 - Generic Data Structure Library: Simple implementations of queues, stacks, priority queues, binary search trees, and red-black trees.
 
-LinkedIn Link
-- (https://www.linkedin.com/in/juan-rios-jr-61b8a6208/)
+LinkedIn
+- [Link](https://www.linkedin.com/in/juan-rios-jr-61b8a6208/)
 
 Education
 - Cumulative GPA: 3.62
