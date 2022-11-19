@@ -7,7 +7,6 @@ Interests
 - Cyber Security
   - Penetration Testing
   - Network Secutity
-  - Red Teaming
 
 Projects
 - Generic Data Structure Library: Simple implementations of queues, stacks, priority queues, binary search trees, and red-black trees.
