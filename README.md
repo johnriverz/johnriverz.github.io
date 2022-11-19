@@ -4,7 +4,7 @@ Technical Skills
 - Revision Control: Git
 
 Interests
--Cyber Security
+- Cyber Security
   - Penetration Testing
   - Network Secutity
   - Red Teamning
