@@ -6,8 +6,6 @@ Interests
 
 Projects
 
-Github Link
-
 LinkedIn Link
 
 Education
