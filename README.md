@@ -1,13 +1,20 @@
-###### Hi, I'm Juan, a third-year CS student at the University of Oregon
-
 Technical Skills
+- Programming Languages: C++, C, Python, Java
+- Platforms: Windows, Linux
+- Revision Control: Git
 
 Interests
+-Cyber Security
+  - Penetration Testing
+  - Network Secutity
+  - Red Teamning
 
 Projects
+- Generic Data Structure Library: Simple implementations of queues, stacks, priority queues, binary search trees, and red-black trees.
 
 LinkedIn Link
+- (https://www.linkedin.com/in/juan-rios-jr-61b8a6208/)
 
 Education
-
-Work Experience
+- Cumulative GPA: 3.62
+- Graduation Date: June 2024
